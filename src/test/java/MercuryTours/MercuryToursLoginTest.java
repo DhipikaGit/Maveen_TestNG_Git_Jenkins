@@ -11,7 +11,7 @@ public class MercuryToursLoginTest extends Reusable {
 
 	@Test(groups="Smoke")
 	public void login() {
-		System.out.println("MercuryTours888");
+		System.out.println("MercuryTours999");
 		System.setProperty("webdriver.chrome.driver", "Drivers/chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.get("http://newtours.demoaut.com/");
